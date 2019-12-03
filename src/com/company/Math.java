@@ -17,6 +17,6 @@ public int add (int first,int second){
 
 }
 public int sub(int first, int second){
-        return second + first;
+        return second - first;
 }
 }
